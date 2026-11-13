@@ -4,9 +4,9 @@
 favicon: /favicon.png
 
 # author headimg
-headimg: https://imgchr.github.la/steve.jpeg
+headimg: /favicon.png
 # author info
-name: justpsvm
+name: akarineren
 description: Stay Hungry,Stay Foolish.
 
 # search
@@ -30,7 +30,7 @@ count:
 # comments
 comments:
   #livere_uid:  填写来比力UID
-  #disqus_username: justpsvm
+  #disqus_username: your_disqus_username
 
 # accounts support weibo/github/zhihu/twitter/douban 
 # display to former three

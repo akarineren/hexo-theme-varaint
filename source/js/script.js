@@ -26,7 +26,7 @@
  
             $('.js-search .text-input').keydown(function (event) {
                 if (event.keyCode == 13) {
-                    location.href = 'https://www.google.com/search?q=site:yumemor.com ' + $(this).val();
+                    location.href = 'https://www.google.com/search?q=' + encodeURIComponent('site:' + location.hostname + ' ' + $(this).val());
                     return false;
                 }
             })

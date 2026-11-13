@@ -1,10 +1,6 @@
 # 又一个 Hexo 主题 hexo-theme-varaint
 
-预览地址：https://github.la/hexo-theme-varaint
-
 先感谢[原作者](www.dahuzi.me)，这个主题是我无意逛 wordpress 看见的 感觉很简洁。在争取到作者的同意下 开始了移植工作。
-
-  ![首页截图](https://imgchr.github.la/varaint.png)
 
 ## banner
 默认情况下 首页的 banner 每一次加载都会随机变动，如果想更改随机策略 ，到 /theme/hexo-theme-varaint/source/js/script.js:
@@ -58,7 +54,7 @@ count:
 ```yaml
 comments:
   #livere_uid:  填写来比力UID
-  #disqus_username: justpsvm
+  #disqus_username: your_disqus_username
 ```
 
 > 在国内的话还是建议大家使用多说，disqus 必须要翻墙。
